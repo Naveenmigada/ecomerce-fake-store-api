@@ -1,0 +1,58 @@
+.form-search{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding-left: 30px;
+    width: 400px;
+    margin-left: 30px;
+    font-family:fantasy;
+}
+.store{
+    font-family: cursive;
+    color: aliceblue; 
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 15px;
+}
+.icon{
+    margin-left: -22px;
+    color: blue;
+    z-index: 10;
+}
+.kart-button,.kart-button1{
+    outline: none;
+    border: none;
+    background-color: rgb(4, 203, 203);
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+    transition: all 1s;
+    
+
+}
+.kart-button1{
+    margin-left: 800px;
+}
+.kart-button{
+    margin-right: 20px;
+}
+.kart-button:hover{
+    background-color: transparent;
+    transform: scale(1.3);
+
+}
+.kart-button1:hover{
+    background-color: transparent;
+    transform: scale(1.3);
+}
+.badgee{
+    display: inline-block;
+    width: fit-content;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.head{
+    background:radial-gradient(circle at bottom right ,rgb(128, 211, 239),rgb(6, 178, 251));
+   
+}
